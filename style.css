@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    min-height: 100vh;
+    height: 100%;
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0px;
+    margin: 100px auto auto 100px;
+    width: 250px;
+    height: auto;
+    background-color: rgb(226, 226, 226);
+}
+
+.title {
+    text-align: center;
+}
+
+.input {
+    width: 200px;
+    margin: 5px auto;
+    height: 30px;
+}
+
+.submit {
+    width: 150px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.list {
+    margin: 0px;
+}
